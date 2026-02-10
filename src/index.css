@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.input {
+  @apply w-full h-[52px] border border-gray-300 rounded-lg px-4 text-sm focus:outline-none focus:ring-1 focus:ring-[#cf1b2b];
+}
+
+.baackground{
+ background-image: url("./assets/log-bg.jpg");
+}
